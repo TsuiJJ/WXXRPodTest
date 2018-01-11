@@ -1,0 +1,6 @@
+use_frameworks!
+target 'WXXRPodTest_Tests' do
+  pod 'WXXRPodTest', :path => '../'
+  
+  
+end

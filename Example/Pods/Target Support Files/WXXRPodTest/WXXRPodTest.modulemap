@@ -1,0 +1,6 @@
+framework module WXXRPodTest {
+  umbrella header "WXXRPodTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
